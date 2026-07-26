@@ -2,13 +2,7 @@
 
 A PLC ladder logic simulation of an automatic single-bottle water filling system built using **CodeSys**. The system fills one bottle at a time with a 3-second fill cycle, counts completed bottles, and includes emergency stop safety logic.
 
----
 
-## 📹 Demo Video
-
-> 🎥 [Watch Simulation Video on YouTube](#) ← *Replace this with your YouTube link*
-
----
 
 ## 📌 Project Overview
 
@@ -98,8 +92,8 @@ ESTOP pressed at any point
 ```
 water-bottle-filling-plc/
 ├── media/
-│   ├── image.png                                  ← Visualization screenshot
-│   └── Water Bottle LD (single bottle at a time).pdf  ← Full ladder logic PDF
+│   ├── visualization.png                             ← Visualization screenshot
+│   └── ladder_logic.pdf                              ← Full ladder logic PDF
 ├── README.md
 ```
 
